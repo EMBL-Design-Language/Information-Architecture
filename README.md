@@ -21,12 +21,12 @@ INCLUDE DIAGRAM OF "RELATIONSHIPS"
 ## Requirements
 
 From the above we can draw requirements on what the IA must provide:
-- Extreme flexibility: Content templates must accommodate a mix of any/all the major facets, or they need to specifically exclude address limited facets (i.e. A research webpage template can never be used for training, services, or industry transfer)
+1. Extreme flexibility: Content templates must accommodate a mix of any/all the major facets, or they need to specifically exclude address limited facets (i.e. A research webpage template can never be used for training, services, or industry transfer)
     - No website sub-page lock in: Navigation must allow easy transition between areas (i.e. from "Rome research" to "Heidelberg research")
-- Content maps to user needs: the facets used by content can reveal target users (once we identify our target user types)
+2. Content maps to user needs: the facets used by content can reveal target users (once we identify our target user types)
     - Goals: we cand map the content -> users -> goals. These should be trackable (this is easier with web analytics, but not impossible in print)
 
-### Impact on structures 
+### 1. Extreme flexibility: Impact on structures 
 
 The mix of facets presented will vary across each content item (microsite, service, homepage, brochure).
 
@@ -37,7 +37,7 @@ As user needs vary we must shift the presentation order of each facet and some c
 
 The website structure must be able to facilitate multi-faceted content categorisation and user navigation. 
 
-### Only as important as it is to a user
+### 2. Content maps to user needs: Only as important as it is to a user
 
 The importance of each major facet varies according to user needs at a given time; a user might: 
 - look to connect a person at EMBL;
