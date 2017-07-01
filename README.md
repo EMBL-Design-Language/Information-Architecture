@@ -16,7 +16,8 @@ There are three major facets that reflect EMBL's internal organisation and the o
 Each and all of these three are part of [EMBL's mission](https://github.com/EMBL-Design-Language/About#purpose).
 
 
-INCLUDE DIAGRAM OF "RELATIONSHIPS"
+INCLUDE DIAGRAM OF "RELATIONSHIPS" this will actually be at least two: a blocky set of columns showing each grouping, and a second showing the ties
+
 
 
 ## Requirements
