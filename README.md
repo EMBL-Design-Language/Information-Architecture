@@ -14,13 +14,17 @@ There are three major facets that reflect EMBL's internal organisation and the o
 
 Each and all of these three are part of [EMBL's mission](https://github.com/EMBL-Design-Language/About#purpose).
 
-### Only as important as it is to a user
 
-The importance of each major facet varies according to user needs at a given time; a user might: 
-- look to connect a person at EMBL;
-- connect with bioinformatics;
-- the ongoings of EMBL Rome; or
-- structural biology research being performed by Jane Doe at Grenoble. 
+INCLUDE DIAGRAM OF "RELATIONSHIPS"
+
+
+## Requirements
+
+From the above we can draw requirements on what the IA must provide:
+- Extreme flexibility: Content templates must accommodate a mix of any/all the major facets, or they need to specifically exclude address limited facets (i.e. A research webpage template can never be used for training, services, or industry transfer)
+    - No website sub-page lock in: Navigation must allow easy transition between areas (i.e. from "Rome research" to "Heidelberg research")
+- Content maps to user needs: the facets used by content can reveal target users (once we identify our target user types)
+    - Goals: we cand map the content -> users -> goals. These should be trackable (this is easier with web analytics, but not impossible in print)
 
 ### Impact on structures 
 
@@ -33,12 +37,10 @@ As user needs vary we must shift the presentation order of each facet and some c
 
 The website structure must be able to facilitate multi-faceted content categorisation and user navigation. 
 
-INCLUDE DIAGRAM OF "RELATIONSHIPS"
+### Only as important as it is to a user
 
-## Conclusions
-
-From the above we can draw conclusions:
-- Extreme flexibility: Templates need to be able to accommodate a mix of any/all the major facets, or they need to specifically exclude address a facet (i.e. A research webpage template can never be used for training, services, or industry transfer)
-- No website sub-page lock in: Website navigation must allow users to easily transition between areas (i.e. from Rome research to Heidelberg research)
-- Plan for user needs: The user types can be mapped from the major facets of content (*important!* We need to identify our target user types and map them to the IA's major facets)
-    - Map our goals: as we know our content and target users, we need to link them to trackable goals (this is easier for web, but not impossible in print)
+The importance of each major facet varies according to user needs at a given time; a user might: 
+- look to connect a person at EMBL;
+- connect with bioinformatics;
+- the ongoings of EMBL Rome; or
+- structural biology research being performed by Jane Doe at Grenoble. 
