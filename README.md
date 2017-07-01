@@ -24,8 +24,10 @@ INCLUDE DIAGRAM OF "RELATIONSHIPS"
 From the above we can draw requirements on what the IA must provide:
 1. Extreme flexibility: Content templates must accommodate a mix of any/all the major facets, or they need to specifically exclude address limited facets (i.e. A research webpage template can never be used for training, services, or industry transfer)
     - No website sub-page lock in: Navigation must allow easy transition between areas (i.e. from "Rome research" to "Heidelberg research")
-2. Content maps to user needs: the facets used by content can reveal target users (once we identify our target user types)
-    - Goals: we cand map the content -> users -> goals. These should be trackable (this is easier with web analytics, but not impossible in print)
+    - Always point to the "mothership": EMBL's diversified (silo) nature means a user may navigagte down to (or enter from) a distant brand subpoint (i.e. Ensembl) and a user should always be able to traverse the chain back to EMBL. Both navigationally and branding-wise
+1. Content maps to user needs: the facets used by content can reveal target users (once we identify our target user types)
+    - Goals: we can map the content -> users -> goals. These should be trackable (this is easier with web analytics, but not impossible in print)
+1. Support multiple relationships: Many sub-pages have a plethora of relationships, from collaborators, funders, parent organisations, to endorsements. We need a structured and visually semantic/intuitive way to represent these.
 
 ### 1. Extreme flexibility: Impact on structures 
 
@@ -45,3 +47,6 @@ The importance of each major facet varies according to user needs at a given tim
 - connect with bioinformatics;
 - the ongoings of EMBL Rome; or
 - structural biology research being performed by Jane Doe at Grenoble. 
+
+### 3. Support multiple relationships: A world of parents, funders, sponsors, collaborators
+To come. (will reference work done for ELIXIR)
