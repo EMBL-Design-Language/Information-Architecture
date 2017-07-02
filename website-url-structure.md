@@ -19,7 +19,7 @@ These URLs are shortcuts for facet query paramaters:
    - research: `?facet=research`
       - Cell Biology and Biophysics: `?facet=research-cell`
       - ...
-   - services: ?facet=services`
+   - services: `?facet=services`
       - online services (EBI): `?facet=services-online`
       - core facilities: `?facet=services-core`
    - ...
@@ -36,4 +36,4 @@ Some examples:
 2. a specific training event might have micro-site domain
 3. an online service will likely have an application-specific URL
 
-Note that in all of these cases, content should be pulled from the main EMBL.org "content enginge" (to be defined in another document) where possible to avoid data duplication.
+Note that in all of these cases, content should be pulled from the main EMBL.org "content engine" (to be defined in another document) where possible to avoid data duplication.
