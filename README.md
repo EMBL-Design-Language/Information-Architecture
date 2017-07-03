@@ -9,11 +9,14 @@ This primarily applies to web content and navigation, but this architecture is a
 There are three major facets that reflect EMBL's internal organisation and the outside user's need. 
 
 1. Who: the EMBL people involved
-1. Mission: the division (research, services, training, industry transfer)
-    - What: the type of work being done (disease modeling, bioinformatics, structural biology, mouse biology, etc.)
+1. What: the division (research, services, training, industry transfer)
+    - Activity: the type of work being done (disease modeling, bioinformatics, structural biology, mouse biology, etc.)
 1. Where: EMBL's six physical geographic sites and virtual websites
 
-Each and all of these three are part of [EMBL's mission](https://github.com/EMBL-Design-Language/About#purpose).
+Each and all of these three are part and make of [EMBL's mission](https://github.com/EMBL-Design-Language/About#purpose).
+
+A visulisation of how these interplay:
+<img src="https://raw.githubusercontent.com/EMBL-Design-Language/Information-Architecture/master/assets/ia-map-v3.png" />
 
 For more details on facets as they map to EMBL's structure, [see this explainer](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets.md)
 
