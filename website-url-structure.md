@@ -1,18 +1,18 @@
 # Information Architecture: URL Structures
 ##### Part of the EMBL Design Language
 
-While the major facets may in some case be directly accesable by domain URLs (that is: all Cambrige-specific information can be portaled via www.ebi.ac.uk, or a specific training event might have micro-site domain), all EMBL.org url partterns are as follows:
+While the major facets may in some case be directly accesable by domain URLs (that is: all Cambrige-specific information can be portaled via www.ebi.ac.uk, or a specific training event might have micro-site domain), all EMBL.org url patterns are as follows:
 
 ## EMBL.org Patterns for website URL paths
 
 - EMBL.org: portal to all EMBL content
-- EMBL.org/`%facet%`/`%optional_facet_2%`/: immediately following the URL [is one of the facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets.md); that is:
+- EMBL.org/`%facet%`/`%optional_facet_2%`/: [facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets.md) are appended immediately after the domain; that is:
     - `EMBL.org/people`: people directory 
     - `EMBL.org/hamburg`: all Hamburg-specific information
       - `EMBL.org/hamburg/about`: About the hamburg site
     - `EMBL.org/research`: all research information
     
-These URLs are shortcuts for facet query paramaters:
+These URLs are shortcuts for facet query parameters:
 1. Who	
    - people: `?facet=people`
 1. Mission
