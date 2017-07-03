@@ -15,7 +15,7 @@ While the major facets may in some case be directly accesable by domain URLs (th
 These URLs are shortcuts for facet query parameters:
 1. Who	
    - people: `?facet=people`
-1. Mission
+1. What
    - research: `?facet=research`
       - Cell Biology and Biophysics: `?facet=research-cell`
       - ...
