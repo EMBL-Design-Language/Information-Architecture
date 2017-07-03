@@ -1,0 +1,30 @@
+# Information Architecture: Website navigation
+##### Part of the EMBL Design Language
+
+Note: this isn't strictly IA, but has much interplay so it's good to outline some basic structural needs in the IA spec, imho.
+
+## Intro
+It's worth a moment to look back at our IA requirements, particularly item #1:
+> 1. Extreme flexibility: Impact on structures
+> The mix of facets presented will vary across each content item (microsite, service, homepage, brochure).
+> 
+> As user needs vary we must shift the presentation order of each facet and some content will be location specific:
+> - a list of structural researchers;
+> - a visitor map of the EMBL Cambridge (EBI); or
+> - a bioinformatics service listing.
+> - The website structure must be able to facilitate multi-faceted content categorisation and user navigation.
+
+This means we must 
+1. Many paths: provide the functional ability to navigate a series of website properties that can share many or few relationships
+2. Orientation: provide enough context/hierarchy/rigidity to allow the user to orient; and
+3. Flexibility: enough flexibility to allow the site maintainers to customise within the scrope of the system. 
+
+Not hard, but it will be complex.
+
+## Schematic
+
+A remind of what we're trying to make navigable:
+
+<img src="https://raw.githubusercontent.com/EMBL-Design-Language/Information-Architecture/master/assets/ia-map-v3.png"/>
+
+insert finished nav here
