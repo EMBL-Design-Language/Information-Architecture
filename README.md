@@ -42,9 +42,9 @@ The website structure must be able to facilitate multi-faceted content categoris
 
 The importance of each major facet varies according to user needs at a given time; a user might: 
 - look to connect a person at EMBL;
-- connect with bioinformatics;
-- the ongoings of EMBL Rome; or
-- structural biology research being performed by Jane Doe at Grenoble. 
+- find a bioinformatics service/tool;
+- read about news from EMBL Rome; or
+- discover structural biology research being performed by Jane Doe at Grenoble. 
 
 ### 3. Support multiple relationships: A world of parents, funders, sponsors, collaborators
-To come. (will reference work done for ELIXIR)
+To come. (will reference work done for ELIXIR; see owncloud documents for now)
