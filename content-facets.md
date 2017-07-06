@@ -17,7 +17,7 @@ Many types of content are used throughout the organisation by many teams (people
 - Semantic meta-information (optional):
   - Longevity: Score of how long this will be relevant for [0-100]
   - Importance: Score of how "important" this is [0-100]
-- Associate people: Reference EMBL person(s) and/or free-form name+URL
+- Associated people: Reference EMBL person(s) and/or free-form name+URL
 
 ## People
 ... to come
