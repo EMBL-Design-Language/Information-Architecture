@@ -6,7 +6,7 @@ This isn't strictly IA, but has much interplay so it's good to outline some basi
 ## TOC
 1. [Overview](https://github.com/EMBL-Design-Language/Information-Architecture) 
 1. [Architecture facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets-architecture.md)
-    1. [Content facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/content-facets.md)
+    1. [Content facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets-content.md)
 1. Websites
     1. [Navigation](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/website-navigation.md) (this document)
     1. [URL Structures](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/website-url-structure.md)
