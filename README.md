@@ -4,6 +4,14 @@ The structure of EMBL's who, what and where.
 
 This primarily applies to web content and navigation, but this architecture is also designed to include print and other digital materials as well (e-mail, slide decks, etc.)
 
+## TOC
+1. [Overview](https://github.com/EMBL-Design-Language/Information-Architecture) (this document)
+1. [Architecture facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets-architecture.md)
+    1. [Content facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/content-facets.md)
+1. Websites
+    1. [Navigation](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/website-navigation.md)
+    1. [URL Structures](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/website-url-structure.md)
+
 ## Major facets
 
 There are three major facets that reflect EMBL's internal organisation and the outside user's need. 
