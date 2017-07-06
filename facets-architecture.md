@@ -1,9 +1,21 @@
 # Information Architecture: Facets
 ##### Part of the EMBL Design Language
 
+The overlay of the IA facets creates a ven diagram mirroring EMBL's mission.
+
+## TOC
+1. [Overview](https://github.com/EMBL-Design-Language/Information-Architecture) (this document)
+1. [Architecture facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets-architecture.md)
+    1. [Content facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets-content.md)
+1. Websites
+    1. [Navigation](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/website-navigation.md)
+    1. [URL Structures](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/website-url-structure.md)
+
+## Facet visulisation 
+
 <img src="https://raw.githubusercontent.com/EMBL-Design-Language/Information-Architecture/master/assets/ia-map-v3.png" />
 
-The overlay of the IA facets creates a ven diagram mirroring EMBL's mission.
+
 
 ## Major facet structure and categories
 
