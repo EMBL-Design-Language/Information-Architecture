@@ -1,9 +1,8 @@
 # Information Architecture: Website navigation
-##### Part of the EMBL Design Language
 
 This isn't strictly IA, but has much interplay so it's good to outline some basic structural needs in the IA spec.
 
-## TOC
+##### Part of the EMBL Design Language
 1. [Overview](https://github.com/EMBL-Design-Language/Information-Architecture) 
 1. [Architecture facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets-architecture.md)
     1. [Content facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets-content.md)
