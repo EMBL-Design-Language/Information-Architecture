@@ -1,10 +1,9 @@
 # Information Architecture: URL Structures
-##### Part of the EMBL Design Language
 
 While the major facets may in some case be directly accesable by domain URLs (that is: all Cambrige-specific information can be portaled via www.ebi.ac.uk, or a specific training event might have micro-site domain).
 
-## TOC
-1. [Overview](https://github.com/EMBL-Design-Language/Information-Architecture) 
+##### Part of the EMBL Design Language Information Architecture
+1. [Overview](https://github.com/EMBL-Design-Language/Information-Architecture)
 1. [Architecture facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets-architecture.md)
     1. [Content facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets-content.md)
 1. Websites
@@ -17,13 +16,13 @@ All EMBL.org url patterns are as follows:
 
 - EMBL.org: portal to all EMBL content
 - EMBL.org/`%facet%`/`%optional_facet_2%`/: [facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets.md) are appended immediately after the domain; that is:
-    - `EMBL.org/people`: people directory 
+    - `EMBL.org/people`: people directory
     - `EMBL.org/hamburg`: all Hamburg-specific information
       - `EMBL.org/hamburg/about`: About the hamburg site
     - `EMBL.org/research`: all research information
-    
+
 These URLs are shortcuts for facet query parameters:
-1. Who	
+1. Who
    - people: `?facet=people`
 1. What
    - research: `?facet=research`
@@ -39,10 +38,10 @@ These URLs are shortcuts for facet query parameters:
 
 ## Notes on non-EMBL.org domains
 
-There are instances when content can also be available outside the EMBL.org site, these domains should be set up in consultation with the "content architecture team" (likely some hybrid of EMBL communications and EMBL-EBI web dev?). 
+There are instances when content can also be available outside the EMBL.org site, these domains should be set up in consultation with the "content architecture team" (likely some hybrid of EMBL communications and EMBL-EBI web dev?).
 
 Some examples:
-1. all Cambrige-specific information is portaled via `www.ebi.ac.uk`
+1. all Cambridge-specific information is portaled via `www.ebi.ac.uk`
 2. a specific training event might have micro-site domain
 3. an online service will likely have an application-specific URL
 

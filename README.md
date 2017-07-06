@@ -1,10 +1,10 @@
 # Information-Architecture
-##### Part of the EMBL Design Language
+
 The structure of EMBL's who, what and where.
 
 This primarily applies to web content and navigation, but this architecture is also designed to include print and other digital materials as well (e-mail, slide decks, etc.)
 
-## TOC
+##### Part of the EMBL Design Language Information Architecture
 1. [Overview](https://github.com/EMBL-Design-Language/Information-Architecture) (this document)
 1. [Architecture facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets-architecture.md)
     1. [Content facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets-content.md)
@@ -14,7 +14,7 @@ This primarily applies to web content and navigation, but this architecture is a
 
 ## Major facets
 
-There are three major facets that reflect EMBL's internal organisation and the outside user's need. 
+There are three major facets that reflect EMBL's internal organisation and the outside user's need.
 
 1. Who: the EMBL people involved
 1. What: the division (research, services, training, industry transfer)
@@ -38,24 +38,24 @@ From the above we can draw requirements on what the IA must provide:
     - Goals: we can map the content -> users -> goals. These should be trackable (this is easier with web analytics, but not impossible in print)
 1. Support multiple relationships: Many sub-pages have a plethora of relationships, from collaborators, funders, parent organisations, to endorsements. We need a structured and visually semantic/intuitive way to represent these.
 
-### 1. Extreme flexibility: Impact on structures 
+### 1. Extreme flexibility: Impact on structures
 
 The mix of facets presented will vary across each content item (microsite, service, homepage, brochure).
 
-As user needs vary we must shift the presentation order of each facet and some content will be location specific: 
+As user needs vary we must shift the presentation order of each facet and some content will be location specific:
 - a list of structural researchers;
 - a visitor map of the EMBL Cambridge (EBI); or
-- a bioinformatics service listing. 
+- a bioinformatics service listing.
 
-The website structure must be able to facilitate multi-faceted content categorisation and user navigation. 
+The website structure must be able to facilitate multi-faceted content categorisation and user navigation.
 
 ### 2. Content maps to user needs: Only as important as it is to a user
 
-The importance of each major facet varies according to user needs at a given time; a user might: 
+The importance of each major facet varies according to user needs at a given time; a user might:
 - look to connect a person at EMBL;
 - find a bioinformatics service/tool;
 - read about news from EMBL Rome; or
-- discover structural biology research being performed by Jane Doe at Grenoble. 
+- discover structural biology research being performed by Jane Doe at Grenoble.
 
 ### 3. Support multiple relationships: A world of parents, funders, sponsors, collaborators
 To come. (will reference work done for ELIXIR; see owncloud documents for now)
