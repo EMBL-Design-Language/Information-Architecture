@@ -1,9 +1,19 @@
 # Information Architecture: URL Structures
 ##### Part of the EMBL Design Language
 
-While the major facets may in some case be directly accesable by domain URLs (that is: all Cambrige-specific information can be portaled via www.ebi.ac.uk, or a specific training event might have micro-site domain), all EMBL.org url patterns are as follows:
+While the major facets may in some case be directly accesable by domain URLs (that is: all Cambrige-specific information can be portaled via www.ebi.ac.uk, or a specific training event might have micro-site domain).
+
+## TOC
+1. [Overview](https://github.com/EMBL-Design-Language/Information-Architecture) 
+1. [Architecture facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets-architecture.md)
+    1. [Content facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/content-facets.md)
+1. Websites
+    1. [Navigation](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/website-navigation.md)
+    1. [URL Structures](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/website-url-structure.md) (this document)
 
 ## EMBL.org Patterns for website URL paths
+
+All EMBL.org url patterns are as follows:
 
 - EMBL.org: portal to all EMBL content
 - EMBL.org/`%facet%`/`%optional_facet_2%`/: [facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets.md) are appended immediately after the domain; that is:
