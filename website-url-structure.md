@@ -6,7 +6,7 @@ While the major facets may in some case be directly accesable by domain URLs (th
 ## TOC
 1. [Overview](https://github.com/EMBL-Design-Language/Information-Architecture) 
 1. [Architecture facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets-architecture.md)
-    1. [Content facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/content-facets.md)
+    1. [Content facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets-content.md)
 1. Websites
     1. [Navigation](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/website-navigation.md)
     1. [URL Structures](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/website-url-structure.md) (this document)
