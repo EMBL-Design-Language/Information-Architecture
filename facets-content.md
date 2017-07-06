@@ -3,6 +3,14 @@
 
 Many types of content are used throughout the organisation by many teams (people, news, events) and we will want to share, import, compile, and distribute these. So it is important that we have an agreement on what these content types are made of.
 
+## TOC
+1. [Overview](https://github.com/EMBL-Design-Language/Information-Architecture) 
+1. [Architecture facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets-architecture.md)
+    1. [Content facets](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/facets-content.md) (this document)
+1. Websites
+    1. [Navigation](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/website-navigation.md)
+    1. [URL Structures](https://github.com/EMBL-Design-Language/Information-Architecture/blob/master/website-url-structure.md) 
+
 ## News
 
 - Headline (text, 255 chars)
