@@ -34,11 +34,13 @@ A reminder of what we're trying to make navigable:
 
 <img src="https://raw.githubusercontent.com/EMBL-Design-Language/Information-Architecture/master/assets/ia-map-v3.png"/>
 
-Each of these scenarios will have incremental context-specific navigation (i.e. a research overview page will link to research teams), however we must also provide "wormhole" navigation; to illustrate:
-1. The `EMBL logo` is linked to the `embl.org` for quick escape to the homepage
-2. The `Grenoble Research` page needs "pivot" navigation to:
-    - `Rome Research`
-    - `Grenoble People`
+Each of these scenarios will have:
+1. Incremental context-specific navigation (i.e. a research overview page will link to research teams)
+1. "Wormhole" navigation; to illustrate:
+    1. The `EMBL logo` is linked to the `embl.org` for quick escape to the homepage
+    1. The `Grenoble Research` page needs "pivot" navigation to:
+        - `Rome Research`
+        - `Grenoble People`
 
 That is, navigation must allow the user to:
 - Scope: Widen and narrow scope of content (likely in-context incremental navigation)
